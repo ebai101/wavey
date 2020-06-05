@@ -1,6 +1,6 @@
 # wavey
 
-**UPDATE 06/05/20: ** I modified this to remove JMSL, which isn't free software. It's faster and easier to use now as well. The old version using JMSL is on the `jmsl` branch if you want to look.
+**UPDATE 06/05/20:** I modified this to remove JMSL, which isn't free software. It's faster and easier to use now as well. The old version using JMSL is on the `jmsl` branch if you want to look.
 
 ### About
 
